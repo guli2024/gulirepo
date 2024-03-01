@@ -1,0 +1,5 @@
+git config --global user.name "guli2024"
+git config --global user.email "gylkair.toktosheva@gmail.com"
+
+
+git add. pwd
